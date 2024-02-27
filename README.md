@@ -14,9 +14,8 @@ Technologies Used:
 HTML: for structuring the content of the website.
 CSS: for styling and adding visual enhancements to the website.
 Smooth Animations: Utilizing CSS transitions and animations to create a visually appealing experience.
-Contributing:
 
-Contributions to Sushi Delight are welcome! Whether it's adding new sushi dishes to the menu, improving the website's design, or fixing bugs, we appreciate any contributions from the community.
+Contributing: Contributions to Sushi Delight are welcome! Whether it's adding new sushi dishes to the menu, improving the website's design, or fixing bugs, we appreciate any contributions from the community.
 
 🤸 Quick Start
 
